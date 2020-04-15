@@ -1,0 +1,2 @@
+# Discourse Auth using Cognito 
+
